@@ -20,3 +20,6 @@ Create the webpage as shown in the reference image below -
 > - The links at the bottom of the main page and under **Contact Information** are in lists and change color on `:hover`
 > - The web links have an `:active` class applied and should open in a new tab
 > - `:visited` pseudo classes should be applied to the internal links, **Drop me a line!** and **Back to main page**
+
+
+### For further reference, you can check out the live version [here!](https://digitalcareerinstitute.github.io/UIB-content-the-sweet-spot/index.html)
