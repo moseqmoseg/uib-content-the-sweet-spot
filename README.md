@@ -29,4 +29,6 @@ Create the webpage as shown in the reference image below -
 6. Set a background color for the HTML element and for megawrapper
 7. Add a medium sized placeholder image from placekeanu.com to the contact page
 
+Try out how is your page affected when you change the default font and the default font size on your browser.
+
 ### For further reference, you can check out the live version [here!](https://digitalcareerinstitute.github.io/UIB-content-the-sweet-spot/index.html) -- Note that this is missing out EXTRA tasks!
