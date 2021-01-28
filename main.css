@@ -1,0 +1,62 @@
+html {
+  width: 800px;
+  font-size: 28px;
+  background-image: url(https://cdn.foodbeast.com/wp-content/uploads/2019/04/toh-jelly-beans.jpg);
+  background-repeat: no-repeat;
+  background-size:cover
+}
+
+.megawrapper {
+  background-color: plum; align-content: center;
+}
+
+h1 {
+  background-color: #f58ea0;
+  color: #dad8d8;
+  font-size: 2.4rem;
+}
+
+h2 {
+  color: #f112f1;
+  background-color: #dad8d8;
+  font-size: 0.75rem;
+}
+
+#main-topic {
+  background-color: hotpink;
+  font-size: 3.9rem;
+}
+
+.subtopic {
+  background-color: #ebf64d;
+  font-size: 1.8rem;
+}
+
+.subtopic:hover {
+  color: rgb(30, 215, 240);
+}
+
+.subtopictext:hover {
+  color: pink;
+}
+
+.partners:active {
+  background-color: hotpink;
+  color: #efefef;
+}
+
+h4 {
+  font-size: 0.99rem;
+}
+
+h4 + ul {
+  list-style: none;
+}
+
+h4 + ul:hover {
+  background-color: #ebf64d;
+}
+
+.contactinfo:hover {
+  background-color: red;
+}
